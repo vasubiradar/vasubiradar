@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://vasubiradar.github.io/portfolio-responsive-complete-main/portfolio-responsive-complete-main/](https://vasubiradar.github.io/portfolio-responsive-complete-main/portfolio-responsive-complete-main/)
+- 👨‍💻 All of my projects are available at [https://vasudhabiradar.netlify.app/]
 
 - 📝 I regularly write articles on [Photography](Photography)
 
