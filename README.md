@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://vasudhabiradar23.netlify.app/]
+- 👨‍💻 All of my projects are available at [https://vasudhabiradar.netlify.app/]
 
 - 📝 I regularly write articles on [Photography](Photography)
 
